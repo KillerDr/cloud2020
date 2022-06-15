@@ -6,5 +6,6 @@ public class TestGit {
         System.out.println("this is hot-fix");
         System.out.println("this is master");
         System.out.println("this is master");
+        System.out.println("this is pull test");
     }
 }
